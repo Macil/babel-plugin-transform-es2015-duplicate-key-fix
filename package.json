@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-es2015-duplicate-key-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix duplicate object keys to work in ES5.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,13 @@
   "keywords": [
     "babel-plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgentME/babel-plugin-transform-es2015-duplicate-key-fix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AgentME/babel-plugin-transform-es2015-duplicate-key-fix/issues"
+  },
   "author": "Chris Cowan <agentme49@gmail.com>",
   "license": "MIT",
   "dependencies": {
